@@ -23,7 +23,7 @@ Uma nuvem híbrida é um ambiente de computação que usa nuvens públicas e pri
     <tr align="left">
       <th>Nuvem Privada</th>
       <th>Nuvem Pública</th>
-      <th>Nuvem Híbrica</th>
+      <th>Nuvem Híbrida</th>
     </tr>
   </thead>
   <tbody align="left">
