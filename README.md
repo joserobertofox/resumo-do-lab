@@ -63,12 +63,12 @@ Os provedores de serviços em nuvem operam em um modelo baseado no consumo,  o q
 #### Tipos de Despesas
 
 ##### Despesas de capital (CapEx)
-* Gasto inicial de dinheiro em infraestutura física.
+* Gasto inicial de dinheiro em infraestutura física. 
 * Despesas têm um valor que se reduz com o tempo.
 
 ##### Despesas operacionais (OpEx)
 * Gasto com produtos e serviços conforme necessário, pagamento conforme uso.
 * É cobrado imediatamente.
-
 ---
+<div align="center">Feito por ☁️ José Roberto Assis Silva ☁️ <a href="https://github.com/joserobertofox">JRFOX</a>.</div>
 
